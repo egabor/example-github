@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  example-github
+
+  Created by Eszenyi Gábor on 2022. 04. 16..
+  
+*/
+
+"userSearchScreen.search.textField.placeholder" = "Search Users";
+"userSearchScreen.search.button.title" = "Search";
+"userSearchScreen.userList.initialState.title" = "Type something in the search field and hit the Search button";
+"userSearchScreen.userList.noResultsState.title" = "No results for the expression: %@\nTry with another keyword";
+"userSearchScreen.userList.button.retry.title" = "Tap here to load next page";
+
+"alert.error.title" = "Error";
+"alert.ok.button.title" = "Ok";
